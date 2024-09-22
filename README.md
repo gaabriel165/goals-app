@@ -12,7 +12,9 @@ Goals App is a simple learning application built using React Native. It allows u
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/goals-app.git
+   ```
 
-![Screenshot of Goals App](assets/images/muckup-goals-list-portrait.png)
-![Screenshot of Goals App](assets/images/mockup-add-goal-portrait.png)
-
+<p align="center">
+  <img src="assets/images/muckup-goals-list-portrait.png" alt="Goals List" width="250" />
+  <img src="assets/images/mockup-add-goal-portrait.png" alt="Add goal page" width="250" />
+</p>
