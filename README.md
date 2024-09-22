@@ -11,7 +11,7 @@ Goals App is a simple learning application built using React Native. It allows u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/goals-app.git
+   git clone git@github.com:gaabriel165/goals-app.git
    ```
 
 <p align="center">
